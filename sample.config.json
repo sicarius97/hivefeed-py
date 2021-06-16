@@ -1,0 +1,9 @@
+{
+    "owner":"sicarius",
+    "witness":"sicarius",
+    "keys": {
+        "active_key":""
+    },
+    "publish_interval":900
+    
+}

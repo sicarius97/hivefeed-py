@@ -2,7 +2,7 @@
     "owner":"sicarius",
     "witness":"sicarius",
     "keys": {
-        "active_key":""
+        "active_key":"insert active key here"
     },
     "publish_interval":900
     

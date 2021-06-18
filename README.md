@@ -31,7 +31,7 @@ Set repo as working directory:
 
 Use conda pkg manager to create an environment in envs directory within repo with necessary packages from provided environment.yml:
 
-`conda create --prefix ./envs -f environment.yml`
+`conda env create --prefix ./envs --file environment.yml`
 
 Activate environment, you will know it is activated as terminal will now be prefixed with (<environment name>):
 
